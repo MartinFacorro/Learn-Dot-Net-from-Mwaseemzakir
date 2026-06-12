@@ -7,28 +7,44 @@
 
 📖 Browse the searchable site: <https://mwaseemzakir.github.io/awesome-dotnet-resources/>
 
-## Categories
+## Contents
 
-- [Blogs](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/blogs.md)
-- [Newsletters](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/newsletters.md)
-- [Libraries](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/libraries.md)
-- [Youtubers](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/youtubers.md)
-- [Books](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/books.md)
-- [Courses](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/courses.md)
-- [Podcasts](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/podcasts.md)
-- [Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/tools.md)
-- [Roadmaps](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/roadmaps.md)
-- [Conferences](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/conferences.md)
-- [Open Source Projects](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/open-source.md)
-- [Community and Forums](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/community.md)
-- [Interview Prep](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/interview-prep.md)
-- [Cheat Sheets](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/cheat-sheets.md)
-- [GitHub Profiles](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/github-profiles.md)
-- [Extensions](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/extensions.md)
-- [Websites](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/websites.md)
-- [AI Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/ai-tools.md)
-- [Content Creators](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/content-creators.md)
-- [Portfolio Templates](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/portfolio-templates.md)
+- [Learn](#learn)
+- [Build](#build)
+- [Stay Current](#stay-current)
+- [Connect](#connect)
+
+### Learn
+
+- [Roadmaps](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/roadmaps.md) — Step-by-step paths from beginner to advanced .NET developer.
+- [Books](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/books.md) — Free and paid books on C#, .NET, and architecture.
+- [Courses](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/courses.md) — Free, paid, and Pluralsight courses by leading .NET authors.
+- [Cheat Sheets](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/cheat-sheets.md) — Quick references for C#, LINQ, and the .NET CLI.
+- [Interview Prep](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/interview-prep.md) — Questions and resources for .NET interviews.
+- [Websites](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/websites.md) — Learning platforms and coding-practice sites.
+
+### Build
+
+- [Libraries](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/libraries.md) — Curated NuGet packages grouped by purpose.
+- [Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/tools.md) — IDEs, profilers, API clients, and DevOps tooling.
+- [Extensions](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/extensions.md) — Productivity extensions for Visual Studio and VS Code.
+- [AI Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/ai-tools.md) — AI assistants and tools for .NET developers.
+- [Open Source Projects](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/open-source.md) — Notable .NET projects to learn from and contribute to.
+- [Portfolio Templates](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/portfolio-templates.md) — Ready-to-use templates to showcase your work.
+
+### Stay Current
+
+- [Blogs](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/blogs.md) — Blogs by well-known .NET writers.
+- [Newsletters](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/newsletters.md) — Weekly .NET newsletters worth subscribing to.
+- [Podcasts](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/podcasts.md) — .NET and software-engineering podcasts.
+- [Youtubers](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/youtubers.md) — YouTube channels teaching .NET.
+- [Content Creators](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/content-creators.md) — Creators sharing daily tips on LinkedIn and X.
+
+### Connect
+
+- [Community and Forums](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/community.md) — Places to ask questions and meet other developers.
+- [Conferences](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/conferences.md) — Major .NET and C# conferences.
+- [GitHub Profiles](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/github-profiles.md) — Notable .NET developers to follow on GitHub.
 
 ## Tag legend
 
