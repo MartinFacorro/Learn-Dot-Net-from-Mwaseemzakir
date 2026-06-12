@@ -14,6 +14,7 @@
   - [Extensions](docs/extensions.md)
   - [AI Tools](docs/ai-tools.md)
   - [Open Source Projects](docs/open-source.md)
+  - [Sample Apps & Architectures](docs/sample-apps.md)
   - [Portfolio Templates](docs/portfolio-templates.md)
 
 - Stay Current

@@ -24,3 +24,7 @@ Notable .NET developers sharing daily tips, tutorials, and insights on LinkedIn 
 | Anton Martyniuk | [@anton_martyniuk](https://x.com/anton_martyniuk) | [anton-martyniuk](https://www.linkedin.com/in/anton-martyniuk/) | C#, .NET best practices, clean code |
 | Aram Tchekrekjian | — | [aramt87](https://www.linkedin.com/in/aramt87/) | .NET, software development |
 | Pavle Davidkovic | — | [pavledavitkovic](https://www.linkedin.com/in/pavledavitkovic/) | C#, .NET, software development |
+
+## See also
+
+- [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) — a community-maintained directory of .NET content creators.

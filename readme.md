@@ -33,6 +33,7 @@
 - [Extensions](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/extensions.md) - Productivity extensions for Visual Studio and VS Code.
 - [AI Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/ai-tools.md) - AI assistants and tools for .NET developers.
 - [Open Source Projects](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/open-source.md) - Notable .NET projects to learn from and contribute to.
+- [Sample Apps & Reference Architectures](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/sample-apps.md) - Starter kits and real-world apps to learn from or build on.
 - [Portfolio Templates](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/portfolio-templates.md) - Ready-to-use templates to showcase your work.
 
 ## Stay Current

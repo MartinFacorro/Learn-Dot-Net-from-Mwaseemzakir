@@ -35,6 +35,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [TUnit](https://www.nuget.org/packages/TUnit/) | Modern, source-generator powered test framework for .NET 8+ |
 | | [Verify](https://www.nuget.org/packages/Verify/) | Approval and snapshot testing — auto-diffs outputs |
 | | [Fixie](https://www.nuget.org/packages/Fixie/) | Convention-driven, low-ceremony test framework |
+| | [bUnit](https://www.nuget.org/packages/bunit/) | Testing library for Blazor components |
 | **Integration Testing** | [Microsoft.AspNetCore.Mvc.Testing](https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Testing/) | In-process integration testing for ASP.NET Core apps |
 | | [Testcontainers](https://www.nuget.org/packages/Testcontainers/) | Spin up real Docker containers (DB, cache, etc.) in tests |
 | | [WireMock.Net](https://www.nuget.org/packages/WireMock.Net/) | HTTP stub/mock server for contract and integration tests |
@@ -123,6 +124,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [Simmy](https://www.nuget.org/packages/Polly.Contrib.Simmy/) | Chaos engineering — inject faults into Polly policies |
 | **Rate Limiting** | [AspNetCoreRateLimit](https://www.nuget.org/packages/AspNetCoreRateLimit/) | IP and client-based rate limiting middleware |
 | | [Microsoft.AspNetCore.RateLimiting](https://www.nuget.org/packages/Microsoft.AspNetCore.RateLimiting/) | Built-in rate limiting middleware in .NET 7+ |
+| | [DotNetRateLimiter](https://www.nuget.org/packages/DotNetRateLimiter/) | Attribute-based rate limiting for ASP.NET Core APIs |
 | **API Versioning** | [Asp.Versioning.Http](https://www.nuget.org/packages/Asp.Versioning.Http/) | API versioning for ASP.NET Core (URL, header, query) |
 | | [Asp.Versioning.Mvc](https://www.nuget.org/packages/Asp.Versioning.Mvc/) | API versioning for MVC-style ASP.NET Core controllers |
 | **Minimal APIs** | [Carter](https://www.nuget.org/packages/Carter/) | Minimal API module framework built on ASP.NET Core |

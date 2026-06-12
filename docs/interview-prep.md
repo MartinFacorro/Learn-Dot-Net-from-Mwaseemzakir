@@ -68,3 +68,7 @@ Resources to help you prepare for .NET developer interviews.
 5. [Microsoft .NET Documentation](https://learn.microsoft.com/en-us/dotnet/)
 
 	The definitive reference for understanding how .NET actually works — invaluable for deep technical interviews.
+
+6. [.NET Interview Questions — StefanTheCode](https://github.com/StefanTheCode/dotnet_interview_questions)
+
+	A curated GitHub repository of .NET interview questions with answers, organized by topic.
