@@ -2,7 +2,7 @@
 
 > A curated list of resources for .NET developers — blogs, libraries, courses, tools, and more.
 
-[![GitHub Stars](https://img.shields.io/github/stars/Mwaseemzakir/awesome-dotnet-resources?style=flat-square&logo=github&color=yellow&label=Stars)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Mwaseemzakir/awesome-dotnet-resources?style=flat-square&logo=github&color=yellow&label=Stars&cacheSeconds=3600)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/stargazers)
 [![Link Check](https://img.shields.io/github/actions/workflow/status/Mwaseemzakir/awesome-dotnet-resources/link-check.yml?style=flat-square&label=Link%20Check)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/actions/workflows/link-check.yml)
 
 📖 Browse the searchable site: <https://mwaseemzakir.github.io/awesome-dotnet-resources/>
