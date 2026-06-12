@@ -16,6 +16,8 @@ Real-world .NET projects, starter kits, and reference architectures to learn fro
 | --- | --- |
 | [iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) | Clean Architecture implementation for an ASP.NET Core Web API. |
 | [iammukeshm/OnionArchitecture](https://github.com/iammukeshm/OnionArchitecture) | Onion Architecture sample for ASP.NET Core showing layered separation of concerns. |
+| [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/cleanarchitecture) | The popular Clean Architecture solution template for ASP.NET Core by Jason Taylor. |
+| [ardalis/CleanArchitecture](https://github.com/ardalis/cleanarchitecture) | Clean Architecture solution template by Steve Smith (Ardalis). |
 | [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) | Event reminder app showcasing DDD, CQRS, and Clean Architecture by Milan Jovanović. |
 
 ## Real-World Applications

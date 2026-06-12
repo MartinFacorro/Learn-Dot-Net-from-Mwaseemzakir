@@ -5,6 +5,7 @@
   - [Books](docs/books.md)
   - [Courses](docs/courses.md)
   - [Cheat Sheets](docs/cheat-sheets.md)
+  - [Coding Standards](docs/coding-standards.md)
   - [Interview Prep](docs/interview-prep.md)
   - [Websites](docs/websites.md)
 

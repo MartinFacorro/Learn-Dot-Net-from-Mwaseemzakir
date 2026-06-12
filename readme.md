@@ -23,6 +23,7 @@
 - [Books](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/books.md) - Free and paid books on C#, .NET, and architecture.
 - [Courses](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/courses.md) - Free, paid, and Pluralsight courses by leading .NET authors.
 - [Cheat Sheets](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/cheat-sheets.md) - Quick references for C#, LINQ, and the .NET CLI.
+- [Coding Standards & Best Practices](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/coding-standards.md) - Engineering standards and conventions for clean .NET code.
 - [Interview Prep](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/interview-prep.md) - Questions and resources for .NET interviews.
 - [Websites](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/websites.md) - Learning platforms and coding-practice sites.
 
