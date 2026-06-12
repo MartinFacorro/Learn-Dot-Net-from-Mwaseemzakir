@@ -9,6 +9,7 @@ Real-world .NET projects, starter kits, and reference architectures to learn fro
 | [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | Production-grade ASP.NET Core Web API starter with multitenancy, CQRS, and modular architecture. |
 | [fullstackhero/blazor-wasm-boilerplate](https://github.com/fullstackhero/blazor-wasm-boilerplate) | Blazor WebAssembly front end built with MudBlazor that pairs with the .NET Starter Kit API. |
 | [fullstackhero/blazor-starter-kit](https://github.com/fullstackhero/blazor-starter-kit) | Blazor starter template with MudBlazor UI and built-in authentication. |
+| [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) | Production-ready `dotnet new` templates (API, GraphQL, Blazor) with security and best practices baked in. |
 
 ## Reference Architectures
 

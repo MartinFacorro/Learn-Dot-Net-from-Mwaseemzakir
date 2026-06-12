@@ -13,6 +13,7 @@ Notable open source .NET projects to learn from, use, or contribute to.
 | BenchmarkDotNet | Powerful micro-benchmarking library | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) |
 | Roslyn | .NET compiler platform (C# and VB.NET) | [dotnet/roslyn](https://github.com/dotnet/roslyn) |
 | .NET Aspire | Cloud-ready stack for building distributed apps | [dotnet/aspire](https://github.com/dotnet/aspire) |
+| Orleans | Virtual-actor framework for distributed, high-scale apps | [dotnet/orleans](https://github.com/dotnet/orleans) |
 
 ## Community Projects
 
@@ -32,3 +33,4 @@ Notable open source .NET projects to learn from, use, or contribute to.
 | Wolverine | In-process command bus and message broker for .NET | [JasperFx/wolverine](https://github.com/JasperFx/wolverine) |
 | Rebus | Simple and lean service bus for .NET | [rebus-org/Rebus](https://github.com/rebus-org/Rebus) |
 | IdentityServer | OpenID Connect and OAuth 2.0 framework | [DuendeSoftware/IdentityServer](https://github.com/DuendeSoftware/IdentityServer) |
+| ABP Framework | Modular application framework with DDD building blocks for ASP.NET Core | [abpframework/abp](https://github.com/abpframework/abp) |
