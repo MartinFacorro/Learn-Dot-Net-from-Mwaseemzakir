@@ -1,11 +1,13 @@
 # Awesome .NET Resources
 
-> A curated list of resources for .NET developers — blogs, libraries, courses, tools, and more.
+> A hand-picked guide to learning, building, and growing as a .NET developer — roadmaps, courses, people to follow, sample apps, and the tools that actually matter.
 
 [![GitHub Stars](https://img.shields.io/github/stars/Mwaseemzakir/awesome-dotnet-resources?style=flat-square&logo=github&color=yellow&label=Stars&cacheSeconds=3600)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/stargazers)
 [![Link Check](https://img.shields.io/github/actions/workflow/status/Mwaseemzakir/awesome-dotnet-resources/link-check.yml?style=flat-square&label=Link%20Check)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/actions/workflows/link-check.yml)
 
 📖 Browse the searchable site: <https://mwaseemzakir.github.io/awesome-dotnet-resources/>
+
+**Curated, not exhaustive.** Instead of listing every package, this list points you to the best few per topic — with a one-line *why* — and covers the whole developer journey: what to **learn**, what to **build** with, who to **follow**, and where to **connect**.
 
 ## Contents
 
