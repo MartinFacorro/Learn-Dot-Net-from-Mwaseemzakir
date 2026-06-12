@@ -129,6 +129,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [Asp.Versioning.Mvc](https://www.nuget.org/packages/Asp.Versioning.Mvc/) | API versioning for MVC-style ASP.NET Core controllers |
 | **Minimal APIs** | [Carter](https://www.nuget.org/packages/Carter/) | Minimal API module framework built on ASP.NET Core |
 | | [FastEndpoints](https://www.nuget.org/packages/FastEndpoints/) | REPR pattern-based endpoint framework for ASP.NET Core |
+| | [Ardalis.ApiEndpoints](https://www.nuget.org/packages/Ardalis.ApiEndpoints/) | Endpoint-per-class pattern for ASP.NET Core controllers |
 | **Messaging** | [MassTransit](https://www.nuget.org/packages/MassTransit/) | Distributed application framework for message-based systems |
 | | [RabbitMQ.Client](https://www.nuget.org/packages/RabbitMQ.Client/) | Official RabbitMQ .NET client |
 | | [EasyNetQ](https://www.nuget.org/packages/EasyNetQ/) | Easy-to-use RabbitMQ .NET client |
