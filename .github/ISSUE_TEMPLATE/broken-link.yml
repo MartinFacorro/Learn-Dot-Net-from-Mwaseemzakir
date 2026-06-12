@@ -1,0 +1,24 @@
+name: "🔗 Report a broken link"
+description: Report a dead, moved, or incorrect link
+title: "[Broken link]: "
+labels: ["broken link"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Which file?
+      placeholder: docs/libraries.md
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: The broken link
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What happens when you open it? Do you know a working replacement?

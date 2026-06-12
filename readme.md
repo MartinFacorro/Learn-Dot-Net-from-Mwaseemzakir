@@ -1,6 +1,12 @@
 # [Awesome .NET Resources](#about-this-repository)
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/Mwaseemzakir/awesome-dotnet-resources?style=flat-square&logo=github&color=yellow&label=Stars)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/stargazers)
+[![Link Check](https://img.shields.io/github/actions/workflow/status/Mwaseemzakir/awesome-dotnet-resources/link-check.yml?style=flat-square&label=Link%20Check)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/actions/workflows/link-check.yml)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=flat-square)](./LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)](./CONTRIBUTING.md)
+
+📖 **Browse the searchable site:** https://mwaseemzakir.github.io/awesome-dotnet-resources/
 
 This repository contains the resources list for the .NET Developers which includes the following:
 - [Blogs](./docs/blogs.md)
@@ -24,6 +30,20 @@ This repository contains the resources list for the .NET Developers which includ
 - [Content Creators](./docs/content-creators.md)
 - [Portfolio Templates](./docs/portfolio-templates.md)
 - [About Author](#about-me)
+
+## Tag legend
+
+Some lists tag entries to help you pick faster:
+
+| Tag | Meaning | | Tag | Meaning |
+| --- | --- | --- | --- | --- |
+| 🟢 | Beginner | | 🆓 | Free |
+| 🟡 | Intermediate | | 💲 | Paid |
+| 🔴 | Advanced | | * | Affiliate link |
+
+## Contributing
+
+Found a great resource or a broken link? Contributions are welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md). Every pull request is automatically checked for dead links.
 
 ## [About Me](#about-me)
 

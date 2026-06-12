@@ -1,0 +1,61 @@
+name: "➕ Suggest a resource"
+description: Suggest a new blog, library, course, tool, or other .NET resource
+title: "[Resource]: "
+labels: ["new resource"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which list should this go in?
+      options:
+        - Blogs
+        - Newsletters
+        - Libraries
+        - Youtubers
+        - Books
+        - Courses
+        - Podcasts
+        - Tools
+        - Roadmaps
+        - Conferences
+        - Open Source Projects
+        - Community & Forums
+        - Interview Prep
+        - Cheat Sheets
+        - GitHub Profiles
+        - Extensions
+        - Websites
+        - AI Tools
+        - Content Creators
+        - Portfolio Templates
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: One neutral sentence describing what it is and why it is useful.
+    validations:
+      required: true
+  - type: checkboxes
+    id: affiliation
+    attributes:
+      label: Disclosure
+      options:
+        - label: I am affiliated with this resource (author, owner, employee, etc.)
+        - label: This link is an affiliate link
