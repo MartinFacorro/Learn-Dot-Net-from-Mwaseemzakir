@@ -32,6 +32,8 @@
 ## Build
 
 - [Libraries](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/libraries.md) - Curated NuGet packages grouped by purpose.
+- [Databases & Data Access](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/databases.md) - Choosing a database and EF Core vs Dapper for your app.
+- [Docker, DevOps & Deployment](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/devops.md) - Containerize, automate, and ship your .NET app.
 - [Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/tools.md) - IDEs, profilers, API clients, and DevOps tooling.
 - [Extensions](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/extensions.md) - Productivity extensions for Visual Studio and VS Code.
 - [AI Tools](https://github.com/Mwaseemzakir/awesome-dotnet-resources/blob/main/docs/ai-tools.md) - AI assistants and tools for .NET developers.

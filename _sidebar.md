@@ -11,6 +11,8 @@
 
 - Build
   - [Libraries](docs/libraries.md)
+  - [Databases & Data Access](docs/databases.md)
+  - [Docker, DevOps & Deployment](docs/devops.md)
   - [Tools](docs/tools.md)
   - [Extensions](docs/extensions.md)
   - [AI Tools](docs/ai-tools.md)
