@@ -1,4 +1,4 @@
-# Awesome .NET Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome .NET Resources
 
 > A curated list of resources for .NET developers — blogs, libraries, courses, tools, and more.
 
