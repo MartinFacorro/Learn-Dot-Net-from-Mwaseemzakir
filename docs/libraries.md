@@ -60,6 +60,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [Utf8Json](https://www.nuget.org/packages/Utf8Json/) | Fast JSON serializer that works directly on UTF-8 bytes |
 | | [YamlDotNet](https://www.nuget.org/packages/YamlDotNet/) | YAML parser and serializer for .NET |
 | | [Google.Protobuf](https://www.nuget.org/packages/Google.Protobuf/) | Protocol Buffers — language-neutral binary serialization |
+| | [protobuf-net](https://www.nuget.org/packages/protobuf-net/) | Fast, contract-based Protocol Buffers serializer for .NET |
 | | [Avro](https://www.nuget.org/packages/Apache.Avro/) | Apache Avro binary serialization with schema evolution |
 | **CSV** | [CsvHelper](https://www.nuget.org/packages/CsvHelper/) | Fast, flexible library for reading and writing CSV files |
 | | [Sylvan.Data.Csv](https://www.nuget.org/packages/Sylvan.Data.Csv/) | High-performance CSV reader with minimal allocations |
@@ -67,6 +68,8 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | **Date and Time** | [NodaTime](https://www.nuget.org/packages/NodaTime/) | A better date and time API than the built-in DateTime |
 | | [Humanizer](https://www.nuget.org/packages/Humanizer/) | Manipulates and displays strings, dates, numbers, and more |
 | | [TimeZoneConverter](https://www.nuget.org/packages/TimeZoneConverter/) | Converts between IANA, Windows, and Rails time zone IDs |
+| **Money and Units** | [NodaMoney](https://www.nuget.org/packages/NodaMoney/) | Money value type with correct currency handling and rounding |
+| | [UnitsNet](https://www.nuget.org/packages/UnitsNet/) | Strongly-typed units of measure to avoid conversion bugs |
 | **Mapping** | [AutoMapper](https://www.nuget.org/packages/AutoMapper/) | Convention-based object-to-object mapping |
 | | [Mapster](https://www.nuget.org/packages/Mapster/) | Fast and flexible object mapper with great performance |
 | | [Mapperly](https://www.nuget.org/packages/Riok.Mapperly/) | Source-generator based mapper — zero runtime overhead |
@@ -154,6 +157,10 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | **CQRS** | [MediatR](https://www.nuget.org/packages/MediatR/) | Simple mediator for CQRS, commands, and notifications |
 | | [Brighter](https://www.nuget.org/packages/Paramore.Brighter/) | Command processor with outbox pattern for messaging |
 | | [Darker](https://www.nuget.org/packages/Paramore.Darker/) | Query side companion to Brighter following CQRS |
+| | [Mediator](https://www.nuget.org/packages/Mediator.SourceGenerator/) | Source-generated, high-performance mediator with no reflection |
+| **Workflow and State Machines** | [Stateless](https://www.nuget.org/packages/Stateless/) | Lightweight state machine for modeling lifecycles and workflows |
+| | [Elsa](https://www.nuget.org/packages/Elsa/) | Workflow engine for executable, designable workflows |
+| | [WorkflowCore](https://www.nuget.org/packages/WorkflowCore/) | Lightweight workflow engine with persistence and long-running steps |
 | **Observability** | [OpenTelemetry](https://www.nuget.org/packages/OpenTelemetry/) | Observability framework — traces, metrics, and logs |
 | | [Serilog.AspNetCore](https://www.nuget.org/packages/Serilog.AspNetCore/) | Serilog integration and request logging for ASP.NET Core |
 | | [App.Metrics](https://www.nuget.org/packages/App.Metrics/) | Real-time metrics and health reporting for .NET |
@@ -183,6 +190,11 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [BarcodeWriter](https://www.nuget.org/packages/BarcodeWriter.Portable/) | Generates barcode images in various formats |
 | **HTML Parsing** | [HtmlAgilityPack](https://www.nuget.org/packages/HtmlAgilityPack/) | HTML parser that handles malformed markup gracefully |
 | | [AngleSharp](https://www.nuget.org/packages/AngleSharp/) | HTML5/CSS3 parser with a W3C-spec DOM implementation |
+| **Template Engines** | [Scriban](https://www.nuget.org/packages/Scriban/) | Fast, powerful text templating engine and scripting language |
+| | [RazorLight](https://www.nuget.org/packages/RazorLight/) | Render Razor templates and emails outside of ASP.NET |
+| | [Fluid.Core](https://www.nuget.org/packages/Fluid.Core/) | Secure, fast Liquid templating engine for .NET |
+| | [Handlebars.Net](https://www.nuget.org/packages/Handlebars.Net/) | Logic-less Handlebars templates compiled to IL |
+| **Markdown** | [Markdig](https://www.nuget.org/packages/Markdig/) | Fast, extensible, CommonMark-compliant Markdown processor |
 | **Web Scraping** | [PuppeteerSharp](https://www.nuget.org/packages/PuppeteerSharp/) | Headless Chromium control for crawling and screenshots |
 | | [Microsoft.Playwright](https://www.nuget.org/packages/Microsoft.Playwright/) | Cross-browser automation — Chrome, Firefox, WebKit |
 | | [Selenium.WebDriver](https://www.nuget.org/packages/Selenium.WebDriver/) | Browser automation via WebDriver protocol |
@@ -225,6 +237,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [OneOf](https://www.nuget.org/packages/OneOf/) | Discriminated union types — type-safe alternative to exceptions |
 | | [CSharpFunctionalExtensions](https://www.nuget.org/packages/CSharpFunctionalExtensions/) | Result and Maybe types for functional error handling in C# |
 | | [ErrorOr](https://www.nuget.org/packages/ErrorOr/) | Fluent result type for error handling without exceptions |
+| | [FluentResults](https://www.nuget.org/packages/FluentResults/) | Result object pattern for expressing success and failure fluently |
 | **Architecture** | [Ardalis.Result](https://www.nuget.org/packages/Ardalis.Result/) | Result pattern — return successes and failures uniformly |
 | | [Ardalis.SmartEnum](https://www.nuget.org/packages/Ardalis.SmartEnum/) | Base class for strongly-typed enums with behavior |
 | | [Ardalis.Specification](https://www.nuget.org/packages/Ardalis.Specification/) | Specification pattern for EF Core and other ORMs |
