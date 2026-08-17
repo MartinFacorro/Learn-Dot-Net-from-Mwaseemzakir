@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Awesome .NET Resources</title>
+  <meta name="description" content="A curated list of resources for .NET developers — blogs, libraries, courses, tools, and more." />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  <style>
+    /* ---- Dark theme: applied when <html> has the .dark class ---- */
+    html.dark {
+      --bg: #1a1b1e;
+      --text: #c9d1d9;
+      --muted: #8b949e;
+      --border: #30363d;
+      --code-bg: #2d2d30;
+      --row-alt: #202124;
+      --link: #4dd0a0;
+    }
+
+    html.dark,
+    html.dark body {
+      background: var(--bg);
+      color: var(--text);
+    }
+    html.dark .sidebar {
+      background: var(--bg);
+      border-right: 1px solid var(--border);
+      color: var(--text);
+    }
+    html.dark .sidebar ul li a { color: var(--text); }
+    html.dark .sidebar ul li.active > a,
+    html.dark .app-name-link { color: var(--link) !important; }
+    html.dark .markdown-section { color: var(--text); }
+    html.dark .markdown-section h1,
+    html.dark .markdown-section h2,
+    html.dark .markdown-section h3,
+    html.dark .markdown-section h4,
+    html.dark .markdown-section strong { color: #f0f3f6; }
+    html.dark .markdown-section a { color: var(--link); }
+    html.dark .markdown-section code,
+    html.dark .markdown-section pre {
+      background: var(--code-bg);
+      color: #e6e6e6;
+    }
+    html.dark .markdown-section pre > code { background: transparent; }
+    html.dark .markdown-section tr { background: var(--bg); border-top: 1px solid var(--border); }
+    html.dark .markdown-section tr:nth-child(2n) { background: var(--row-alt); }
+    html.dark .markdown-section th,
+    html.dark .markdown-section td { border: 1px solid var(--border); }
+    html.dark .markdown-section blockquote {
+      color: var(--muted);
+      border-left: 4px solid var(--border);
+    }
+    html.dark .search { border-bottom: 1px solid var(--border); }
+    html.dark .search input {
+      background: var(--code-bg);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    html.dark .search .results-panel,
+    html.dark .search .matching-post { background: var(--bg); color: var(--text); }
+    html.dark .search p { color: var(--muted); }
+
+    /* ---- Toggle button ---- */
+    #theme-toggle {
+      position: fixed;
+      top: 14px;
+      right: 16px;
+      z-index: 100;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: 1px solid #ddd;
+      background: #fff;
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 1;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+      transition: transform 0.15s ease;
+    }
+    #theme-toggle:hover { transform: scale(1.08); }
+    html.dark #theme-toggle {
+      background: var(--code-bg);
+      border-color: var(--border);
+    }
+  </style>
+  <script>
+    // Apply saved/OS preference before render to avoid a flash.
+    (function () {
+      var saved = localStorage.getItem('theme');
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.classList.add('dark');
+      }
+    })();
+  </script>
+</head>
+<body>
+  <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
+  <div id="app">Loading…</div>
+  <script>
+    (function () {
+      var btn = document.getElementById('theme-toggle');
+      function render() {
+        btn.textContent = document.documentElement.classList.contains('dark') ? '☀️' : '🌙';
+      }
+      btn.addEventListener('click', function () {
+        var dark = document.documentElement.classList.toggle('dark');
+        localStorage.setItem('theme', dark ? 'dark' : 'light');
+        render();
+      });
+      render();
+    })();
+
+    window.$docsify = {
+      name: 'Awesome .NET Resources',
+      repo: 'https://github.com/Mwaseemzakir/awesome-dotnet-resources',
+      homepage: 'readme.md',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      search: {
+        placeholder: 'Search resources…',
+        noData: 'No results.',
+        depth: 3
+      }
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-csharp.min.js"></script>
+</body>
+</html>
